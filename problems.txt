@@ -1,0 +1,72 @@
+Homework 1 problems
+
+1.1.1
+
+a) 7
+b) 200.0000002
+c) true
+
+1.1.2
+
+a) double, 1.618
+b) double, 10.0
+c) boolean, true
+d) string, 33
+
+1.1.4
+
+a) "then" is not a legal keyword in Java
+b) the conditional expression requires parentheses
+c) legal statement
+d) legal statement
+
+1.1.5
+
+if ((x > 0 && x < 1) && (y > 0 && y < 1))
+	System.out.println("true");
+else
+	System.out.println("false");
+	
+1.1.6
+
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+
+1.1.7
+
+a) 3.00009
+b) 499500
+c) 10000
+
+1.1.8
+
+a) b (prints literal char)
+b) 197 (adds decimal ASCII values of 'b' and 'c')
+c) e (adds 4 to ASCII value of 'a', casts to char)
+
+1.1.12
+
+0
+1
+2
+3
+4
+4
+3
+2
+1
+0
