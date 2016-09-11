@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Created by Brian Martinez on 9/11/2016.
  */
 public class problem113 {
-    static Scanner console = new Scanner(System.in);
+    private static Scanner console = new Scanner(System.in);
 
     public static void main(String [] args) throws Exception
     {
