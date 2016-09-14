@@ -70,3 +70,8 @@ c) e (adds 4 to ASCII value of 'a', casts to char)
 2
 1
 0
+
+1.3.3
+
+b, c, f, and g are all sequences that could not occur
+
