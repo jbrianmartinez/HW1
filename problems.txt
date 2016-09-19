@@ -75,3 +75,13 @@ c) e (adds 4 to ASCII value of 'a', casts to char)
 
 b, c, f, and g are all sequences that could not occur
 
+1.4.5
+
+a) ~N	b) ~1	c) ~1	d) ~2N^3
+e) ~2N	f) ~N^2	g) ~1 (becomes constant as N grows)
+
+1.4.6
+
+a) N/2; linear
+b) 2N; linear 
+c) lg N; linearithmic
